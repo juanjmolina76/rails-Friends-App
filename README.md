@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+	FRIEND LIST APP
 
-* Ruby version
+Esta es una aplicacion creada a partir de un tutorial de rails de codemy.com hecho por Jhon Edler.
+tiene 4 hs de duracion y este es el link:
+https://www.youtube.com/watch?v=fmyvWz5TUWg&t=12676s
 
-* System dependencies
+Lo subo a git hub y lo publicaré en Heroku tal como lo enseña en el tutorial.
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
