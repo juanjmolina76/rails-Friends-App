@@ -3,7 +3,7 @@
 
 	FRIEND LIST APP
 
-Esta es una aplicacion creada a partir de un tutorial de rails de codemy.com hecho por Jhon Edler.
+Esta es una aplicacion creada a partir de un tutorial de rails de codemy.com hecho por John Edler.
 tiene 4 hs de duracion y este es el link:
 https://www.youtube.com/watch?v=fmyvWz5TUWg&t=12676s
 
